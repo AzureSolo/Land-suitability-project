@@ -12,4 +12,7 @@ File Organization: The main folders include: clean_data, figures, raw_data, scri
 
 
 Requirements: This project requires R and data from NYC Open Data. 
+
+Datasets:
     Primary Land Use Tax Lot Output - Map (MapPLUTO)
+        This dataset was too large too upload to GITHUB. Therefore, the dataset was broken down into ~20 individual files to allow upload to GITHUB.
