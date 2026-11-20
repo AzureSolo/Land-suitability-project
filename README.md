@@ -11,4 +11,5 @@ Research Questions:
 File Organization: The main folders include: clean_data, figures, raw_data, scripts, and archive
 
 
-Requirements: Software and R Packages TBD 
+Requirements: This project requires R and data from NYC Open Data. 
+    Primary Land Use Tax Lot Output - Map (MapPLUTO)
